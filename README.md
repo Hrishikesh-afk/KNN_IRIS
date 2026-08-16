@@ -1,8 +1,10 @@
 Accuracy Score: 1.0
+
 Confusion Matrix:
  [[10  0  0]
  [ 0  9  0]
  [ 0  0 11]]
+ 
 Classification Report:
                   precision    recall  f1-score   support
 
