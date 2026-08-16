@@ -1,12 +1,13 @@
+```text
 Accuracy Score: 1.0
 
 Confusion Matrix:
- [[10  0  0]
+[[10  0  0]
  [ 0  9  0]
  [ 0  0 11]]
- 
+
 Classification Report:
-                  precision    recall  f1-score   support
+                 precision    recall  f1-score   support
 
     Iris-setosa       1.00      1.00      1.00        10
 Iris-versicolor       1.00      1.00      1.00         9
@@ -15,3 +16,4 @@ Iris-versicolor       1.00      1.00      1.00         9
        accuracy                           1.00        30
       macro avg       1.00      1.00      1.00        30
    weighted avg       1.00      1.00      1.00        30
+```
